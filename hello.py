@@ -7,3 +7,7 @@ print 'Hey!'
 #import the module students
 
 #create one more students and call the method
+
+#call function from fibo 
+
+#every number on the new line
