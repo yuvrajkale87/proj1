@@ -1,6 +1,6 @@
 print 'Hello World!'
 
-print 'Hi Yuvraj'
+print 'Hey!'
 
 #call the function from date.py and print the date
 
